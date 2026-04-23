@@ -2,33 +2,41 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Physics-grounded AI — where the Laplacian vanishes
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>NullDeltaQ</p>
+    <p>Bangkok, Thailand</p>
+    <p><a href="mailto:you@nulldeltaq.ai">you@nulldeltaq.ai</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-What I'm building: AI architectures where physics is the inductive bias — energy-based models, symmetry-aware architectures, geometric deep learning, dynamical systems. Not physics as metaphor. Physics as the actual structure of the model.
+PhD in mathematical physics. 16 years building ML that ships. Now doing both at once.
 
-My background: PhD in mathematical physics, 16 years shipping ML at scale.
+**What I'm building:** AI architectures where physics is the inductive bias — energy-based models, symmetry-aware architectures, geometric deep learning, dynamical systems. Not physics as metaphor. Physics as the actual structure of the model.
 
-Fine me: https://www.linkedin.com/in/danoprisa/
+The name says it: NullDeltaQ is the null space of the Laplacian of Q — the harmonic regime where Dirichlet energy vanishes. That's the mathematical condition we're building toward.
+
+**Background:** I spent 16 years leading data science and ML organizations across fintech, banking, and a global travel platform — close enough to production to know what breaks, senior enough to decide what gets built. In 2024 I stepped back from operating roles to focus entirely on the research question I couldn't stop thinking about: what happens when you build AI from physical first principles rather than statistical ones?
+
+That research produced our first publication (April 2026). NullDeltaQ is what comes next.
+
+**Research focus:**
+- Energy-based models and their physical interpretation
+- Symmetry-aware neural architectures (geometric deep learning)
+- Dirichlet energy as structural prior in learning systems
+- Dynamical systems as foundation for inference
+
+Find me on [LinkedIn](https://www.linkedin.com/in/danoprisa/).
