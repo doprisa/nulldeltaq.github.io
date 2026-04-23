@@ -14,7 +14,7 @@ profile:
     <p></p>
 
 selected_papers: false
-social: true
+social: false
 
 announcements:
   enabled: false
@@ -38,3 +38,6 @@ The name says it: NullDeltaQ is the null space of the Laplacian of Q — the har
 - Dynamical systems as foundation for inference
 
 Find me on [LinkedIn](https://www.linkedin.com/in/danoprisa/).
+
+
+[LinkedIn](https://www.linkedin.com/in/danoprisa/) · [arXiv](https://arxiv.org/search/?searchtype=author&query=Oprisa%2C+D)
