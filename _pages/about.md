@@ -5,9 +5,9 @@ permalink: /
 subtitle: Physics-grounded AI — where the Laplacian vanishes
 
 profile:
-  align: right
+  align: left
   image: phase_space.png
-  image_circular: false
+  image_circular: true
   more_info: >
     <p></p>
     <p></p>
