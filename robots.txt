@@ -1,0 +1,1 @@
+User-agent: * Disallow: Sitemap: https://nulldeltaq.github.io/sitemap.xml
