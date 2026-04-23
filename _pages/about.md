@@ -13,7 +13,7 @@ profile:
     <p></p>
     <p></p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
