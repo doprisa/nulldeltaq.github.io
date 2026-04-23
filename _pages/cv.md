@@ -6,4 +6,13 @@ nav: true
 nav_order: 3
 ---
 
-[Download CV (PDF)](/assets/pdf/cv.pdf)
+<embed 
+  src="/assets/pdf/cv.pdf" 
+  width="100%" 
+  height="1000px" 
+  type="application/pdf">
+
+<p style="margin-top: 10px; font-size: 13px;">
+  <a href="/assets/pdf/cv.pdf" target="_blank">Open in new tab</a> · 
+  <a href="/assets/pdf/cv.pdf" download>Download</a>
+</p>
