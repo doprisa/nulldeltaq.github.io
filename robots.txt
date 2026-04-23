@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://nulldeltaq.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://doprisa.github.io/sitemap.xml
