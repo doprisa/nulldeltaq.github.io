@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Physics-grounded AI — where the Laplacian vanishes
+subtitle: Physics-grounded AI — where the Laplacian is stationary.
 
 profile:
   align: left
@@ -22,8 +22,6 @@ announcements:
 latest_posts:
   enabled: false
 ---
-
-PhD in mathematical physics. 16 years building ML that ships. Now doing both at once.
 
 **What I'm building:** AI architectures where physics is the inductive bias — energy-based models, symmetry-aware architectures, geometric deep learning, dynamical systems. Not physics as metaphor. Physics as the actual structure of the model.
 
